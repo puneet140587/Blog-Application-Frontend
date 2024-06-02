@@ -1,0 +1,9 @@
+body {
+    background-color: #e2e2e2
+}
+
+.page-item.active, .page-link {
+    background-color: Orange !important;
+    border-color: brown !important;
+  
+}
